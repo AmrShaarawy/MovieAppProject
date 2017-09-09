@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.amr.movieappproject1.MainActivity">
+    <item
+        android:id="@+id/popular"
+        android:title="Popualr"></item>
+    <item
+        android:id="@+id/Top_Rated"
+        android:orderInCategory="100"
+        android:title="Top_Rated"
+        />
+    <item
+    android:id="@+id/favourit"
+    android:title="Favourit"></item>
+
+</menu>

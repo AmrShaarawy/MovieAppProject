@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieAppProject1</string>
+    <string name="action_settings">Top_Rated</string>
+    <string name="title_activity_top__rated">Top_Rated</string>
+    <string name="title_activity_detailed">Detailed</string>
+   <string name="SHARED_KEY1">ESTA</string>
+</resources>
